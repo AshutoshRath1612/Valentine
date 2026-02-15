@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "romantic-1",
+      "description": "First Meet inside class",
+      "imageUrl": "/images/first-meet.jpeg",
+      "imageHint": "Our first meet"
+    },
+    {
+      "id": "romantic-2",
+      "description": "First Movie together",
+      "imageUrl": "/images/first-movie.jpeg",
+      "imageHint": "Our first movie together"
+    },
+    {
+      "id": "romantic-3",
+      "description": "Graduated together",
+      "imageUrl": "/images/graduation.jpeg",
+      "imageHint": "Graduated together"
+    },
+    {
+      "id": "romantic-4",
+      "description": "After office nonsense",
+      "imageUrl": "/images/together.jpeg",
+      "imageHint": "You irritating me after office"
+    },
+    {
+      "id": "romantic-5",
+      "description": "After office fun too",
+      "imageUrl": "/images/together1.jpeg",
+      "imageHint": "Tired after office, yet laughing because you are baby."
+    }
+  ]
+}

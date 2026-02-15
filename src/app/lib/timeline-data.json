@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "date": "February 14, 2023",
+      "title": "The First Hello",
+      "description": "Where it all began. A simple message that changed everything.",
+      "icon": "Sparkles"
+    },
+    {
+      "date": "February 16, 2023",
+      "title": "The Night I Fell for Your Voice",
+      "description": "The first time we spoke, time slowed down. Your laugh, your pauses, the way you said my name — that was the moment my heart quietly chose you.",
+      "icon": "HeartHandshake"
+    },
+    {
+      "date": "February 26, 2023",
+      "title": "Seeing You for the First Time",
+      "description": "When our screens lit up and I saw you smile, the world faded away. That video call wasn’t just pixels — it was the beginning of something beautifully real.",
+      "icon": "Video"
+    },
+    {
+      "date": "March 1, 2023",
+      "title": "The First Time I Held You",
+      "description": "Standing in front of you felt surreal. When I finally saw you in person, every mile, every wait, every heartbeat led to that one unforgettable moment.",
+      "icon": "Heart"
+    },
+    {
+      "date": "Today",
+      "title": "Forever & Always",
+      "description": "Every day is a new page in our beautiful story. I love you more than ever.",
+      "icon": "Infinity"
+    }
+  ]
+}
